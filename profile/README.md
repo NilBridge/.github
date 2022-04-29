@@ -10,8 +10,9 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 
 </div>
 
-
 ## NilBridge的优点
+
+<details>
 
 -  基于Node.js，全平台兼容
 - 全开源代码
@@ -20,9 +21,10 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 - 支持插件拓展
 - 开箱即用
 
+</details>
 
 ## 声明
-
+<details>
 ### 一切开发旨在学习，请勿用于非法用途
 
 - NilBridge 是完全免费且开放源代码的软件，仅供学习和娱乐用途使用
@@ -61,3 +63,5 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 
 - 若引用 NilBridge 发布的软件包而不修改 NilBridge，则衍生项目需在描述的任意部位提及使用 NilBridge。
 - 若修改 NilBridge 源代码再发布，**或参考 NilBridge 内部实现发布另一个项目**，则衍生项目必须在**文章首部**或 'NilBridge' 相关内容**首次出现**的位置**明确声明**来源于本仓库 (`https://github.com/nilbridge/nilbridge2`)。不得扭曲或隐藏免费且开源的事实。
+
+</details>
