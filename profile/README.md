@@ -34,8 +34,12 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 - NilBridge 不会通过任何方式强制收取费用，或对使用者提出物质条件
 - NilBridge 由整个开源社区维护，并不是属于某个个体的作品，所有贡献者都享有其作品的著作权。
 
-### 许可证
+</details>
+    
+## 许可证
 
+<details>
+    
     Copyright (C) 2021-2022 NilDev Technologies and contributors.
 
     This program is free software: you can redistribute it and/or modify
