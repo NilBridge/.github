@@ -8,6 +8,8 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 
 图标以及形象由画师[CnData07](https://github.com/cndata07)绘制
 
+    
+官方网站：[nilbridge.site](https://nilbridge.site/)
 </div>
 
 ## NilBridge的优点
