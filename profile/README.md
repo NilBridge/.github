@@ -11,7 +11,7 @@ NilBridge是一个在全平台下运行，提供QQ机器人协议库用于与Bed
 
 官方网站：[nilbridge.site](https://nilbridge.site/)
     
-模块网站：[modules.nilbridge.site](http://modules.nilbridge.site)
+模块中心：[modules.nilbridge.site](http://modules.nilbridge.site)
 </div>
 
 ## 优点
